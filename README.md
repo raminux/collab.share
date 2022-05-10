@@ -7,6 +7,9 @@ At this point, I have to start small. First of all, I must design the pages of t
 
 - [ ] Objective (start small) 
     - [ ] I'm going to teach how to improve the platform
+        - General tutorials useful for various purposes
+        - Specific tutorials relating to platform development
+        - General trainings are just in the direction of platform development.
     - [ ] get feedback and participate users in the flow
     - [ ] make it fun and helpful
     - [ ] This section has a webpage called `Platform Development Guidelines`
