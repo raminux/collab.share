@@ -16,16 +16,14 @@ At this point, I have to start small. First of all, I must design the pages of t
         - [ ] show likes
         - [ ] show youtube statistics of this video
         - [ ] takes into account UX/UI
-        - [ ] 
-    - [ ] 
+    
 - [ ] User registration procedures
     - [ ] sign up, sign in, log out, 
     - [ ] authenticate using github and gmail
-    - [ ] 
+
 - [ ] User profile
     - [ ] show user's share
     - [ ] show user's collaborations
-    - [ ] 
 
 - [ ] Collaboration
     - [ ] different types of collaboration
@@ -35,10 +33,16 @@ At this point, I have to start small. First of all, I must design the pages of t
     - [ ] add comments
     - [ ] score comments
     - [ ] suggestions
-    - [ ] 
+
 - [ ] Landing page
     - [ ] show the last video of the platform
     - [ ] show some statistics
-    - [ ] 
 
+
+## Some basic guidelines for developers
+- The target is clear, go in that direction on a daily basis.
+- Learn and teach whatever is required along the way. Just be on the way!
+- Persist!
+- Consistency is the key.
+- Do something every day even though it seems small. Small improvements result in huge improvement!
 
