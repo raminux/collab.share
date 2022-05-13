@@ -15,5 +15,28 @@ An important point that makes this channel distinct from other ones is that ever
 To track the contribution of collaborators effectively, we must design a machanism to take into account every contribution. To achieve this, I'm going to design a framework to take into account the users collaboration in social network platforms in order to increase the effectiveness of this new platform. 
 
 
+> Important point: As this channel aims to show the challenges of developing a platform, every detail of this process will be documented. 
+
+## Quality of Videos
+To help channel grow rapidly, I try to make high quality videos with useful content. This channel will help you to grow step by step. Keep in mind that success is not an event, it is a process, and consistency is the key part of this process. 
+
+## Technologies Used
+As you know, there are a plethora of ptogramming languages and various kind of frameworks to develop an application. Here, we will use Django for backend development. Specifically, we will use test-driven django to develop our platform. Test-driven development (TDD) may decrease the overall speed of programming but in the long run, it makes life easier. I will talk about TDD in seperate videos. 
+For the frontend, we must take into account different platforms, I mean web, android, ios, windows, linux. Our platform must run on each of those with ease and good compatibility. There are two main choices to achieve this goal, Flutter and React/React Native. Each of them has their own benefits and drawbacks. We will discuss about it and choose one of them to go. More details on technologies used to design the platform will be given along the way. 
+
+##  A little bit more on the Philosophy of this platform
+Let's assume a world that values human efforts permanently! For example, consider a freelancing platform, where people help each other to solve their problems and projects and recieve money for it. In this platform, there are generally three kinds of individuals who recieves benefits:
+
+1. Platform developers
+2. Freelancers
+3. Project submitters
+
+to do: 
+talk a little bit about the benefits of those groups and how we can share benefirs among them to increase the happiness and well-being on earth for every one. We are not here to work all day long to just be alive, we are here to live life to its fullest potential. 
+
+
+
+
+
 
 
