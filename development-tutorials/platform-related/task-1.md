@@ -27,12 +27,24 @@ For the frontend, we must take into account different platforms, I mean web, and
 ##  A little bit more on the Philosophy of this platform
 Let's assume a world that values human efforts permanently! For example, consider a freelancing platform, where people help each other to solve their problems and projects and recieve money for it. In this platform, there are generally three kinds of individuals who recieves benefits:
 
-1. Platform developers
+1. Platform developers (owners)
 2. Freelancers
 3. Project submitters
 
-to do: 
-talk a little bit about the benefits of those groups and how we can share benefirs among them to increase the happiness and well-being on earth for every one. We are not here to work all day long to just be alive, we are here to live life to its fullest potential. 
+Project submitter gives money to the platform developer to find a freelancer to solve their problems. Platform developer takes some portion of money and gives the rest to the freelancer for solving the project. 
+
+In this context, all contributors' efforts to the platform must be sumed up. Efforts are counted in terms of collabs.
+For example, the platform developer recieves 10 collabs for its provided value in this scenario. The freelancer recieves 1 or 2 or ... collabs based on the difficulty of the project. Finally, the project submitter recieves 1 collabs for his/her effort. In other words, every effort is measured in terms of collab. The unit of effort is collab. One collab is the amount of effort each person put into the platform to make it better. Exact definition of one collab requires more discussion and thinking. 
+
+Another example would be an online advertising company. In this setting, there are four types of individuals who recieves benefits:
+1. Platform developer and maintainer (owner)
+2. Advetiser
+3. Content provider (such as a learning video on Django)
+4. Target user (who sees the content and the advertisement)
+
+In this context, every one must recieve some collabs based on their effort and effectiveness of their actions to the platform. 
+
+The important thing that I want to highlight is that we can share benefits among collaborators to increase the happiness and well-being on earth for every one. We are not here to work all day long to just be alive, we are here to live life to its fullest potential. We must collaborate not compete with each other. We are all the same with different capabilities that can be complemented by each other. 
 
 
 
