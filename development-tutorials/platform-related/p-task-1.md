@@ -21,7 +21,7 @@ To track the contribution of collaborators effectively, we must design a machani
 To help channel grow rapidly, I try to make high quality videos with useful content. This channel will help you to grow step by step. Keep in mind that success is not an event, it is a process, and consistency is the key part of this process. 
 
 ## Technologies Used
-As you know, there are a plethora of ptogramming languages and various kind of frameworks to develop an application. Here, we will use Django for backend development. Specifically, we will use test-driven django to develop our platform. Test-driven development (TDD) may decrease the overall speed of programming but in the long run, it makes life easier. I will talk about TDD in seperate videos. 
+As you know, there are a plethora of programming languages and various kind of frameworks to develop an application. Here, we will use Django for backend development. Specifically, we will use test-driven django to develop our platform. Test-driven development (TDD) may decrease the overall speed of programming but in the long run, it makes life easier. I will talk about TDD in seperate videos. 
 For the frontend, we must take into account different platforms, I mean web, android, ios, windows, linux. Our platform must run on each of those with ease and good compatibility. There are two main choices to achieve this goal, Flutter and React/React Native. Each of them has their own benefits and drawbacks. We will discuss about it and choose one of them to go. More details on technologies used to design the platform will be given along the way. 
 
 ##  A little bit more on the Philosophy of this platform
@@ -45,6 +45,8 @@ Another example would be an online advertising company. In this setting, there a
 In this context, every one must recieve some collabs based on their effort and effectiveness of their actions to the platform. 
 
 The important thing that I want to highlight is that we can share benefits among collaborators to increase the happiness and well-being on earth for every one. We are not here to work all day long to just be alive, we are here to live life to its fullest potential. We must collaborate not compete with each other. We are all the same with different capabilities that can be complemented by each other. 
+
+The most ultimate power we have is unity. 
 
 
 
