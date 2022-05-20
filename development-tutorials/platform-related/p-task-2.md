@@ -12,4 +12,42 @@ First of all lets define a social network platform and its categorization.
 ## What is a Social Network Platform?
 
 
-## Types of Social Network Platforms
+## Types of Social Media Apps
+There are 5 major types of social media platforms, namely:
+1. Social networks 
+The aim of this platforms is to let you connect with people, but they use different approaches to acheive it. For example, the Facebook connects friends and families toghether. On the other hand, the Linkedin connects professionals around the globe. 
+
+2. Media Sharing Networks
+These platforms have been used so far for uploading and sharing media, written content, comment posts, post content on other social media apps. Examples of this category would be Instagram and Snapchat.
+
+3. Social Media Blogs
+We may put youtube, pinterest, and twitter in this category. We can use thier tools to push content online. 
+
+4. Community and discussion forums
+In this platforms, users share their opinions about various topics, Examples included Reddit, and Quora. 
+
+5. Consumer Reviews Networks
+These types of platforms allow customers to read online reviews about an specific product before purchasing it. For example, tripadviser, and yelp are two of them.
+
+## How to create a social network platform?
+The first step is to figure out the ==concept of our future social application platform==. In other words, we must understand the value that this platform brings to its audience, also who is going to use this platform, and finally the functionality of the platform's app. 
+
+Let's talk about the value that this platform will bring to its users. As I said before, the main purpose of this platform is to value collaborators' efforts and assign them the percents of the platform's earnings based on their efforts. This is a new concept, and the philosophy behind it is that we see users as the collaborators and also owners of the platform. They are not users and consumers of data. They are participators. The universe is based on participation not observation. In terms of the audiences of the platform, each indivdual with any experience and knowledge that can add some value to the platform will use the platform. We appreciate every moment of your life. You contribute to the platform and the platform is yours. You just need to show your talent and effort to the global society of this new app. For the platform's functionality, we list the common features and modify them along the way. Some features that most modern social network platforms must have are:
+1. Signup
+It is vital to provide different authentication methods, such as, email, phone, and other social platform's accounts. For example, collaborators can register through their twitter account, or github account. 
+2. Collaborator profile
+A modern looking profile with various detail and infor with good UI/UX. Also, we must provide some profile customization features to help them draw the attention of other collaborators. 
+3. News feed
+Show various contents based on collaborators preferences.
+4. Chat
+Online chat is a must-have feature of the platform that we must implement it with elaborate design. Features such as instant messaging and phone calls are vital to the success of the platform. Also, collaborators must be able to share photos, videos, and other content.
+5. Search
+Advanced and high-performance search option
+6. Post creation
+This is where collaborators can show their talents, their works, and their suggestions.
+7. Push notifications
+It is a really handy tool to help collaboratos be engaged with the platform and also it is necessary to inform them about new updates of their account and also the platform.
+
+
+Next Task: watch remaining videos and complete the app design procedure
+
