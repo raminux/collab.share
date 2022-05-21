@@ -49,5 +49,4 @@ This is where collaborators can show their talents, their works, and their sugge
 It is a really handy tool to help collaboratos be engaged with the platform and also it is necessary to inform them about new updates of their account and also the platform.
 
 
-Next Task: watch remaining videos and complete the app design procedure
-
+Next Task: Talking about the first layout and characteristics of this platform
