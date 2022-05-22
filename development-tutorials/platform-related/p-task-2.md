@@ -46,7 +46,12 @@ Advanced and high-performance search option
 6. Post creation
 This is where collaborators can show their talents, their works, and their suggestions.
 7. Push notifications
-It is a really handy tool to help collaboratos be engaged with the platform and also it is necessary to inform them about new updates of their account and also the platform.
+It is a really handy tool to help collaborators be engaged with the platform and also it is necessary to inform them about new updates of their account and also the platform.
+8. Platform Development Guidelines
+In this section, which is the cornerstone of the platform, I'm going to teach how to develop this platform step by step with all related details. This is where the collaborators can participate in the project and be one of its owners. 
+9. An Engaging Landing Page
+It is where, the latest statistics related to the platform will be shown, such as the number of collaborators, their share, number of videos, ... . Also, the latest videos of the platform will be shown. This page is going to change a lot during the development, so we have tons of work and brainstorming here. 
 
 
-Next Task: Talking about the first layout and characteristics of this platform
+Next Task: Sketching the different Pages of the Platform
+## First Draft of The Platform By Hand

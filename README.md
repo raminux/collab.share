@@ -36,6 +36,7 @@ At this point, I have to start small. First of all, I must design the pages of t
     - [ ] add comments
     - [ ] score comments
     - [ ] suggestions
+    - [ ] voice/video tutoring
 
 - [ ] Landing page
     - [ ] show the last videos of the platform
@@ -47,5 +48,5 @@ At this point, I have to start small. First of all, I must design the pages of t
 - Learn and teach whatever is required along the way. Just be on the way!
 - Persist!
 - Consistency is the key.
-- Do something every day even though it seems small. Small improvements result in huge improvement!
+- Do something every day even though it seems small. Small improvements will result in a huge improvement!
 
