@@ -64,3 +64,7 @@ The sign up and sign in pages are similar to those provided by *Grammarly*.
 
 > Sign in page
 ![First draft of Login page](./static/img/signin.jpg "Login Page")
+
+### Collaborator Profile
+The first version of collaborator's profile is as:
+![First version of Collaborator Profile](./static/img/profile-v1.jpg "Profile Page")
