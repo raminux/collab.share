@@ -71,3 +71,25 @@ The first version of collaborator's profile is as:
 In this page, we show the collaboration of the collaborators in different areas and also we show some statistics about his/her status among other collaborators. Some info like the collaborator's overall share of the platform, their contribution index, withdrawals and disposal status, and many others that will be clear and added in future versions and improvements. 
 
 I have to look at my previous UI design for this platform about 1 and half years ago. And add those ideas here.
+
+![Second version of Collaborator Profile](./static/img/profile-v2.jpg "Profile Page")
+
+### News Feed
+
+
+### Chat
+
+
+### Search
+
+
+### Post Creation
+
+
+### Push Notifications
+
+
+### Platform Development Guidelines
+
+
+### An Engaging Landing Page
