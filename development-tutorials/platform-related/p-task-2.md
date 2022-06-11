@@ -84,12 +84,26 @@ Every modern application must have various Chatting capabilities, which includes
 An elaborate and fast search engine is a must-have of modern data intensive applications. A good search engine is required to extract relevant data for user as soon as possible. The data is huge, and finding a relevant one is of utmost important in this section. 
 
 ### Post Creation
-
+Here is where users must be able to contribute their ideas to the platform. Various types of posts exists. The ones that currently I would mention are:
+1. Commenting 
+2. Adding Tutorials
+3. Solving Projects
+4. Adding Projects
 
 ### Push Notifications
 
 
 ### Platform Development Guidelines
+The first page of this section will show all the guidelines and history of the development. 
 
+![First version of the platform development page](./static/img/platform-development-page-v0.jpg "Platform Development Page")
+
+The specific page of each tutorial has more details such as 
+- discussion
+- link to github
+- statistics such as number of collaborators, views, likes, ...
+- ...
+
+![First version of the platform development detail page](./static/img/platform-development-detail-page-v0.jpg "Platform Development Detail Page")
 
 ### An Engaging Landing Page
