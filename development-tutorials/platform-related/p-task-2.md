@@ -75,13 +75,13 @@ I have to look at my previous UI design for this platform about 1 and half years
 ![Second version of Collaborator Profile](./static/img/profile-v2.jpg "Profile Page")
 
 ### News Feed
-
+In this section, the latest contributions of collaborators will be shown based on the date and popularity of their posts. Also, the latest posts that are relevant to the collaborator's expertise will be shown on their news feed section.
 
 ### Chat
-
+Every modern application must have various Chatting capabilities, which includes text messaging (both online and offline), voice messaging (both online and offline), and of course video calling. All this features can be extended to group discussions. 
 
 ### Search
-
+An elaborate and fast search engine is a must-have of modern data intensive applications. A good search engine is required to extract relevant data for user as soon as possible. The data is huge, and finding a relevant one is of utmost important in this section. 
 
 ### Post Creation
 
