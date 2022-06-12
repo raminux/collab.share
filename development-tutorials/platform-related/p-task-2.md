@@ -91,7 +91,7 @@ Here is where users must be able to contribute their ideas to the platform. Vari
 4. Adding Projects
 
 ### Push Notifications
-
+We can use firebase FCM for both the website and application notifs. 
 
 ### Platform Development Guidelines
 The first page of this section will show all the guidelines and history of the development. 
@@ -107,3 +107,7 @@ The specific page of each tutorial has more details such as
 ![First version of the platform development detail page](./static/img/platform-development-detail-page-v0.jpg "Platform Development Detail Page")
 
 ### An Engaging Landing Page
+Is it required? Is it different from news feed? 
+I think this is for not registered or not logged in collaborators. News feed is for the collaborators which is based on their areas of interest. So, It is necessary to design this page. Let's look what it should be look like in te first place. The first draft would be like:
+![First version of The Landing Page](./static/img/Landing-page-v0.jpg "Landing Page V0")
+This will be improved as the development process goes by. 
