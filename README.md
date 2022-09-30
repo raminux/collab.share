@@ -50,3 +50,10 @@ At this point, I have to start small. First of all, I must design the pages of t
 - Consistency is the key.
 - Do something every day even though it seems small. Small improvements will result in a huge improvement!
 
+## Redefining Goals
+As I stated before, start small and grow bigger. This is what everything in the nature is based on. So, I've decided to start this channel as a ==Coding & Poetry== platform. As a result, I'm going to develope a collaborative platform and talk about poem. That's it!
+Simple yet effective and my favorite!
+
+
+
+

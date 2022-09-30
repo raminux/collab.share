@@ -18,3 +18,14 @@ Also, watch the freecodecamp.com video on designing social network app using Dja
 
 # Database Model 
 Now, that we have an initial view of the platform, it's time to find and define database models using Django ORM (Object Relational Mapping). 
+
+The quest for designing a database model for the platform is ongoing now. 
+
+1. https://stackoverflow.com/questions/3271182/database-design-for-a-social-networking-site
+2. https://mysql.tutorials24x7.com/blog/guide-to-design-database-for-social-network-system-in-mysql
+3. https://web.archive.org/web/20210118165628/codedodle.com/social-network-friends-database/
+4. https://www.scaleyourapp.com/what-database-does-facebook-use-a-1000-feet-deep-dive/
+5. https://stackoverflow.com/questions/8112831/implementing-comments-and-likes-in-database
+
+
+ > A well designed database simplifies programming, engineering the site, and smooths its continuing operation. Even an experienced d/b designer will not have complete and perfect foresight: some schema changes down the road will be needed as usage patterns emerge or requirements change.
