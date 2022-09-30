@@ -48,7 +48,7 @@ The important thing that I want to highlight is that we can share benefits among
 
 The most ultimate power we have is unity. 
 
-## What is Profit-sharing or Benefit-sharing?
+## What is Profit-sharing?
 Look at the following website for more information:
 [Profit-sharing](https://humaninterest.com/learn/articles/profit-sharing-plan-how-is-it-different-from-a-401k/)
 
